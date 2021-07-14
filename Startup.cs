@@ -15,7 +15,7 @@ namespace TestWebApp
     {
         public Startup(IConfiguration configuration)
         {
-            //change to gitHub
+            //Triggering azure pipeline by committing chage from gitHum
             Configuration = configuration;
         }
 
